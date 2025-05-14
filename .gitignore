@@ -1,0 +1,68 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sdf
+*.cache
+*.dbmdl
+*.pdb
+
+# Visual Studio working directory
+.vs/
+
+# Rider working directory
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+*.log
+
+# Local database files
+*.mdf
+*.ldf
+
+# Publish output
+wwwroot/dist/
+wwwroot/node_modules/
+
+# Npm & Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Azure
+*.azurepubxml
+*.publishsettings
+
+# JetBrains Rider
+.idea/
+
+# Entity Framework
+Migrations/
+
+# dotenv environment files
+*.env
+
+# Others
+*.vsidx
+*.vssscc
+*.vsscc
+*.orig
+
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
